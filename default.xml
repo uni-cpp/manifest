@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-   <remote name="origin" fetch="ssh://git@github.com/"/>
+   <remote name="origin" fetch="ssh://git@github.com/uni-cpp/"/>
    <default revision="master" remote="origin" sync-j="4"/>
 
-   <project path="async-data-manager" name="uni-cpp/async-data-manager.git"/>
-   <project path="bootstrap" name="uni-cpp/bootstrap.git">
+   <project path="async-data-manager" name="async-data-manager.git"/>
+   <project path="bootstrap" name="bootstrap.git">
       <copyfile dest=".clang-format" src="repo/.clang-format"/>
       <copyfile dest="CMakeLists.txt" src="repo/CMakeLists.txt"/>
       <copyfile dest="README.md" src="repo/README.md"/>
    </project>
-   <project path="cmake" name="uni-cpp/cmake.git"/>
-   <project path="common" name="uni-cpp/common.git"/>
-   <project path="san-issue-detector" name="uni-cpp/san-issue-detector.git"/>
+   <project path="cmake" name="cmake.git"/>
+   <project path="common" name="common.git"/>
+   <project path="san-issue-detector" name="san-issue-detector.git"/>
    <project path="external/gtest" name="external-gtest.git"/>
 </manifest>
