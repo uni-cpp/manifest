@@ -12,5 +12,5 @@
    <project path="cmake" name="uni-cpp/cmake.git"/>
    <project path="common" name="uni-cpp/common.git"/>
    <project path="san-issue-detector" name="uni-cpp/san-issue-detector.git"/>
-   <project path="motors" name="ytsurkan/motors.git"/>
+   <project path="external/gtest" name="external-gtest.git"/>
 </manifest>
