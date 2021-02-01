@@ -13,4 +13,5 @@
    <project path="common" name="common.git"/>
    <project path="san-issue-detector" name="san-issue-detector.git"/>
    <project path="external/gtest" name="external-gtest.git"/>
+   <project path="external/json" name="external-json.git"/>
 </manifest>
