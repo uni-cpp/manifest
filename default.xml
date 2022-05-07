@@ -12,6 +12,7 @@
    <project path="cmake" name="cmake.git"/>
    <project path="common" name="common.git"/>
    <project path="leetcode" name="leetcode.git"/>
+   <project path="dna" name="dna.git"/>
    <project path="san-issue-detector" name="san-issue-detector.git"/>
    <project path="external/gtest" name="external-gtest.git"/>
    <project path="external/json" name="external-json.git"/>
