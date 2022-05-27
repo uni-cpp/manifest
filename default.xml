@@ -13,6 +13,7 @@
    <project path="common" name="common.git"/>
    <project path="leetcode" name="leetcode.git"/>
    <project path="dna" name="dna.git"/>
+   <!--<project path="rbc" name="royal-bank-canada.git"/>-->
    <project path="san-issue-detector" name="san-issue-detector.git"/>
    <project path="external/catch2" name="external-catch2.git"/>
    <project path="external/gtest" name="external-gtest.git"/>

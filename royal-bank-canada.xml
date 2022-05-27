@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-   <remote name="origin" fetch="ssh://git@github.com/uni-cpp/"/>
-   <default revision="master" remote="origin" sync-j="4"/>
-
-   <include name="default.xml"/>
-   <project path="rbc" name="royal-bank-canada.git"/>
-</manifest>
