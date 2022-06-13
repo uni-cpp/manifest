@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-   <remote name="origin" fetch="ssh://git@github.com/uni-cpp/"/>
+   <remote name="origin" fetch="https://github.com/uni-cpp/"/>
    <default revision="master" remote="origin" sync-j="4"/>
 
    <project path="async-data-manager" name="async-data-manager.git"/>
